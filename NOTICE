@@ -1,0 +1,47 @@
+VisRO
+Copyright 2026 The AdaLoop Authors
+
+The code is distributed under the Apache License, Version 2.0; see LICENSE.
+
+VisRO third-party materials
+The VisRO generator bundles the materials below. They are not covered
+by the Apache License of the code and remain under their own licenses, which
+also apply when the material is redistributed in generated examples. Their
+license files stay next to them.
+
+  Material Design Icons (https://github.com/Templarian/MaterialDesign-SVG)
+    Apache-2.0; Material Design Icons by Pictogrammers.
+    License: assets/icons/mdi/LICENSE
+  game-icons.net icons (https://github.com/game-icons/icons)
+    CC BY 3.0; game-icons.net and each icon's individual author. The author is
+    the directory immediately below assets/icons/gameicons/; the pinned
+    icon manifest retains that identity.
+    License: assets/icons/gameicons/LICENSE
+  OpenMoji graphics (https://github.com/hfg-gmuend/openmoji)
+    CC BY-SA 4.0; OpenMoji - the open-source emoji and icon project, HfG
+    Schwaebisch Gmuend and contributors. Only graphics are bundled, not the
+    OpenMoji software.
+    License: assets/icons/openmoji/LICENSE
+  DejaVu Sans fonts (https://dejavu-fonts.github.io/)
+    Original notices and permission terms, also covering identical bundled
+    copies: assets/fonts/LICENSE-DejaVu.txt
+  Fluent Emoji (https://github.com/microsoft/fluentui-emoji), downloaded
+    separately by shared/iconlib/prepare_fluent.py at a pinned commit
+    MIT; Microsoft Corporation.
+    License: shared/iconlib/FLUENT_LICENSE
+
+The SVG files are distributed as the pinned original resources. Generators may
+recolor, crop, rotate, mirror, edit, overlap or composite them. Keep
+attribution and indicate modifications when distributing resulting images.
+CC BY-SA adapted material carries its share-alike requirements; no single
+permissive license for every generated image is asserted here. Tokenizer
+models are not bundled; obtain them from their original publishers under their
+respective terms.
+
+VisRO task design
+Many VisRO tasks are procedural counterparts of task types in the BabyVision
+benchmark (Chen et al., "BabyVision: Visual Reasoning Beyond Language", ICML
+2026); their layouts, visual styles and answer formats follow BabyVision's
+examples. The maze lattice families follow "Thinking with Visual Primitives"
+(Lu et al., 2026). No BabyVision images or code are included; see
+README.md (Acknowledgements).

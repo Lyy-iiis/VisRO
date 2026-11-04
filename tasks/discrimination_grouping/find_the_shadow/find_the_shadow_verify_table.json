@@ -1,0 +1,408 @@
+{
+ "classes": {
+  "gameicons/aussiesim/card-2-clubs.svg": [
+   "gameicons/aussiesim/card-2-diamonds.svg",
+   "gameicons/aussiesim/card-2-spades.svg",
+   "gameicons/aussiesim/card-3-clubs.svg",
+   "gameicons/aussiesim/card-3-diamonds.svg",
+   "gameicons/aussiesim/card-3-spades.svg",
+   "gameicons/aussiesim/card-5-clubs.svg",
+   "gameicons/aussiesim/card-5-diamonds.svg",
+   "gameicons/aussiesim/card-7-clubs.svg",
+   "gameicons/aussiesim/card-7-diamonds.svg"
+  ],
+  "gameicons/aussiesim/card-2-hearts.svg": [
+   "gameicons/aussiesim/card-3-hearts.svg",
+   "gameicons/aussiesim/card-5-hearts.svg",
+   "gameicons/aussiesim/card-7-hearts.svg"
+  ],
+  "gameicons/aussiesim/card-jack-clubs.svg": [
+   "gameicons/aussiesim/card-jack-diamonds.svg",
+   "gameicons/aussiesim/card-jack-spades.svg"
+  ],
+  "gameicons/aussiesim/card-king-clubs.svg": [
+   "gameicons/aussiesim/card-king-diamonds.svg",
+   "gameicons/aussiesim/card-king-spades.svg"
+  ],
+  "gameicons/delapouite/fast-backward-button.svg": [
+   "gameicons/delapouite/fast-forward-button.svg"
+  ],
+  "gameicons/sbed/big-egg.svg": [
+   "mdi/svg/egg.svg"
+  ],
+  "gameicons/sbed/health-decrease.svg": [
+   "gameicons/sbed/health-increase.svg"
+  ],
+  "gameicons/sbed/health-normal.svg": [
+   "mdi/svg/gamepad-round.svg",
+   "mdi/svg/hospital.svg"
+  ],
+  "mdi/svg/alpha-h.svg": [
+   "mdi/svg/signal-hspa.svg"
+  ],
+  "mdi/svg/alpha-m-circle.svg": [
+   "mdi/svg/alpha-w-circle.svg"
+  ],
+  "mdi/svg/alpha-m.svg": [
+   "mdi/svg/alpha-w.svg",
+   "mdi/svg/size-m.svg"
+  ],
+  "mdi/svg/alpha-o.svg": [
+   "mdi/svg/numeric-0.svg"
+  ],
+  "mdi/svg/alpha-s.svg": [
+   "mdi/svg/size-s.svg"
+  ],
+  "mdi/svg/alpha-x.svg": [
+   "mdi/svg/roman-numeral-10.svg"
+  ],
+  "mdi/svg/ambulance.svg": [
+   "mdi/svg/truck-plus.svg"
+  ],
+  "mdi/svg/arrow-bottom-left-bold-outline.svg": [
+   "mdi/svg/arrow-top-right-bold-outline.svg"
+  ],
+  "mdi/svg/arrow-bottom-left-thick.svg": [
+   "mdi/svg/arrow-bottom-right-thick.svg",
+   "mdi/svg/arrow-top-left-thick.svg"
+  ],
+  "mdi/svg/arrow-down-bold.svg": [
+   "mdi/svg/arrow-left-bold.svg",
+   "mdi/svg/arrow-right-bold.svg"
+  ],
+  "mdi/svg/arrow-down-thick.svg": [
+   "mdi/svg/arrow-left-thick.svg",
+   "mdi/svg/arrow-right-thick.svg",
+   "mdi/svg/arrow-up-thick.svg"
+  ],
+  "mdi/svg/arrow-top-left-bottom-right-bold.svg": [
+   "mdi/svg/arrow-top-right-bottom-left-bold.svg"
+  ],
+  "mdi/svg/arrow-u-down-left-bold.svg": [
+   "mdi/svg/arrow-u-left-bottom-bold.svg",
+   "mdi/svg/arrow-u-left-top-bold.svg",
+   "mdi/svg/arrow-u-right-bottom-bold.svg",
+   "mdi/svg/arrow-u-right-top-bold.svg",
+   "mdi/svg/arrow-u-up-left-bold.svg",
+   "mdi/svg/arrow-u-up-right-bold.svg"
+  ],
+  "mdi/svg/backspace-reverse.svg": [
+   "mdi/svg/backspace.svg"
+  ],
+  "mdi/svg/battery-50.svg": [
+   "mdi/svg/battery-60.svg"
+  ],
+  "mdi/svg/border-all-variant.svg": [
+   "mdi/svg/square-outline.svg"
+  ],
+  "mdi/svg/cards-playing-club.svg": [
+   "mdi/svg/cards-playing-spade.svg"
+  ],
+  "mdi/svg/dock-left.svg": [
+   "mdi/svg/dock-right.svg"
+  ],
+  "mdi/svg/ellipse.svg": [
+   "mdi/svg/moon-waning-gibbous.svg",
+   "mdi/svg/moon-waxing-gibbous.svg"
+  ],
+  "mdi/svg/file-download.svg": [
+   "mdi/svg/file-star-four-points.svg",
+   "mdi/svg/file-upload.svg"
+  ],
+  "mdi/svg/gamepad-round-down.svg": [
+   "mdi/svg/gamepad-round-right.svg",
+   "mdi/svg/gamepad-round-up.svg"
+  ],
+  "mdi/svg/gradient-horizontal.svg": [
+   "mdi/svg/gradient-vertical.svg"
+  ],
+  "mdi/svg/hand-front-left.svg": [
+   "mdi/svg/hand-front-right.svg"
+  ],
+  "mdi/svg/land-rows-horizontal.svg": [
+   "mdi/svg/land-rows-vertical.svg"
+  ],
+  "mdi/svg/led-off.svg": [
+   "mdi/svg/led-variant-on.svg"
+  ],
+  "mdi/svg/longitude.svg": [
+   "mdi/svg/sphere.svg"
+  ],
+  "mdi/svg/moon-first-quarter.svg": [
+   "mdi/svg/moon-last-quarter.svg"
+  ],
+  "mdi/svg/numeric-6.svg": [
+   "mdi/svg/numeric-9.svg"
+  ],
+  "mdi/svg/page-layout-footer.svg": [
+   "mdi/svg/page-layout-header.svg"
+  ],
+  "mdi/svg/rhombus-medium.svg": [
+   "mdi/svg/rhombus.svg"
+  ],
+  "mdi/svg/robot-dead.svg": [
+   "mdi/svg/robot-love.svg",
+   "mdi/svg/robot.svg"
+  ],
+  "mdi/svg/skip-backward-outline.svg": [
+   "mdi/svg/skip-forward-outline.svg"
+  ],
+  "mdi/svg/skip-backward.svg": [
+   "mdi/svg/skip-forward.svg"
+  ],
+  "mdi/svg/toggle-switch-off.svg": [
+   "mdi/svg/toggle-switch.svg"
+  ],
+  "mdi/svg/triangle-down.svg": [
+   "mdi/svg/triangle-small-down.svg",
+   "mdi/svg/triangle-small-up.svg",
+   "mdi/svg/triangle.svg"
+  ],
+  "mdi/svg/view-parallel-outline.svg": [
+   "mdi/svg/view-sequential-outline.svg"
+  ]
+ },
+ "format": "fts-law-verify@1",
+ "glyph_upright_only": [
+  "gameicons/aussiesim/card-2-clubs.svg",
+  "gameicons/aussiesim/card-2-diamonds.svg",
+  "gameicons/aussiesim/card-2-hearts.svg",
+  "gameicons/aussiesim/card-2-spades.svg",
+  "gameicons/aussiesim/card-3-clubs.svg",
+  "gameicons/aussiesim/card-3-diamonds.svg",
+  "gameicons/aussiesim/card-3-hearts.svg",
+  "gameicons/aussiesim/card-3-spades.svg",
+  "gameicons/aussiesim/card-5-clubs.svg",
+  "gameicons/aussiesim/card-5-diamonds.svg",
+  "gameicons/aussiesim/card-5-hearts.svg",
+  "gameicons/aussiesim/card-7-clubs.svg",
+  "gameicons/aussiesim/card-7-diamonds.svg",
+  "gameicons/aussiesim/card-7-hearts.svg",
+  "gameicons/aussiesim/card-jack-clubs.svg",
+  "gameicons/aussiesim/card-jack-diamonds.svg",
+  "gameicons/aussiesim/card-jack-hearts.svg",
+  "gameicons/aussiesim/card-jack-spades.svg",
+  "gameicons/aussiesim/card-king-clubs.svg",
+  "gameicons/aussiesim/card-king-diamonds.svg",
+  "gameicons/aussiesim/card-king-hearts.svg",
+  "gameicons/aussiesim/card-king-spades.svg",
+  "gameicons/delapouite/gemini.svg",
+  "gameicons/delapouite/ophiuchus.svg",
+  "gameicons/delapouite/pisces.svg",
+  "gameicons/delapouite/sagittarius.svg",
+  "gameicons/delapouite/scorpio.svg",
+  "gameicons/delapouite/taurus.svg",
+  "gameicons/lorc/apple-seeds.svg",
+  "gameicons/lorc/bird-twitter.svg",
+  "gameicons/lorc/letter-bomb.svg",
+  "gameicons/sbed/level-four-advanced.svg",
+  "gameicons/spencerdub/digital-trace.svg",
+  "mdi/svg/abugida-thai.svg",
+  "mdi/svg/alert-decagram.svg",
+  "mdi/svg/alert-rhombus.svg",
+  "mdi/svg/alert.svg",
+  "mdi/svg/alpha-a.svg",
+  "mdi/svg/alpha-b.svg",
+  "mdi/svg/alpha-c.svg",
+  "mdi/svg/alpha-d.svg",
+  "mdi/svg/alpha-e-circle.svg",
+  "mdi/svg/alpha-e.svg",
+  "mdi/svg/alpha-h.svg",
+  "mdi/svg/alpha-k.svg",
+  "mdi/svg/alpha-m-circle.svg",
+  "mdi/svg/alpha-m.svg",
+  "mdi/svg/alpha-n-circle.svg",
+  "mdi/svg/alpha-o.svg",
+  "mdi/svg/alpha-p.svg",
+  "mdi/svg/alpha-r.svg",
+  "mdi/svg/alpha-s.svg",
+  "mdi/svg/alpha-u.svg",
+  "mdi/svg/alpha-v.svg",
+  "mdi/svg/alpha-w-circle.svg",
+  "mdi/svg/alpha-w.svg",
+  "mdi/svg/alpha-x.svg",
+  "mdi/svg/alpha-z.svg",
+  "mdi/svg/alpha.svg",
+  "mdi/svg/android.svg",
+  "mdi/svg/apple-icloud.svg",
+  "mdi/svg/apple-keyboard-command.svg",
+  "mdi/svg/at.svg",
+  "mdi/svg/battery-alert.svg",
+  "mdi/svg/book-information-variant.svg",
+  "mdi/svg/brightness-percent.svg",
+  "mdi/svg/bulma.svg",
+  "mdi/svg/car-coolant-level.svg",
+  "mdi/svg/card-account-details.svg",
+  "mdi/svg/card-account-phone.svg",
+  "mdi/svg/card-text.svg",
+  "mdi/svg/chat-alert.svg",
+  "mdi/svg/chat-question.svg",
+  "mdi/svg/cloud-alert.svg",
+  "mdi/svg/cloud-braces.svg",
+  "mdi/svg/cloud-percent.svg",
+  "mdi/svg/cloud-question.svg",
+  "mdi/svg/comma-circle.svg",
+  "mdi/svg/comma.svg",
+  "mdi/svg/cpu-32-bit.svg",
+  "mdi/svg/credit-card-outline.svg",
+  "mdi/svg/credit-card.svg",
+  "mdi/svg/currency-btc.svg",
+  "mdi/svg/currency-eur.svg",
+  "mdi/svg/currency-krw.svg",
+  "mdi/svg/currency-ngn.svg",
+  "mdi/svg/currency-php.svg",
+  "mdi/svg/currency-sign.svg",
+  "mdi/svg/currency-thb.svg",
+  "mdi/svg/deviantart.svg",
+  "mdi/svg/digital-ocean.svg",
+  "mdi/svg/dlna.svg",
+  "mdi/svg/dolby.svg",
+  "mdi/svg/drupal.svg",
+  "mdi/svg/emby.svg",
+  "mdi/svg/ev-station.svg",
+  "mdi/svg/facebook.svg",
+  "mdi/svg/file-code.svg",
+  "mdi/svg/file-excel.svg",
+  "mdi/svg/file-music.svg",
+  "mdi/svg/file-percent.svg",
+  "mdi/svg/file-question.svg",
+  "mdi/svg/floor-plan.svg",
+  "mdi/svg/folder-google-drive.svg",
+  "mdi/svg/folder-text.svg",
+  "mdi/svg/food-apple.svg",
+  "mdi/svg/format-bold.svg",
+  "mdi/svg/format-color-text.svg",
+  "mdi/svg/format-italic.svg",
+  "mdi/svg/format-paint.svg",
+  "mdi/svg/gatsby.svg",
+  "mdi/svg/git.svg",
+  "mdi/svg/gmail.svg",
+  "mdi/svg/google-cardboard.svg",
+  "mdi/svg/google-cloud.svg",
+  "mdi/svg/google-downasaur.svg",
+  "mdi/svg/google-earth.svg",
+  "mdi/svg/google-fit.svg",
+  "mdi/svg/google-hangouts.svg",
+  "mdi/svg/google-translate.svg",
+  "mdi/svg/google.svg",
+  "mdi/svg/head-alert.svg",
+  "mdi/svg/head-question.svg",
+  "mdi/svg/home-alert.svg",
+  "mdi/svg/home-floor-1.svg",
+  "mdi/svg/home-floor-2.svg",
+  "mdi/svg/home-floor-3.svg",
+  "mdi/svg/home-floor-g.svg",
+  "mdi/svg/home-floor-l.svg",
+  "mdi/svg/home-floor-negative-1.svg",
+  "mdi/svg/hospital-building.svg",
+  "mdi/svg/hospital-marker.svg",
+  "mdi/svg/hospital.svg",
+  "mdi/svg/hulu.svg",
+  "mdi/svg/humble-bundle.svg",
+  "mdi/svg/id-card.svg",
+  "mdi/svg/khanda.svg",
+  "mdi/svg/language-css3.svg",
+  "mdi/svg/language-fortran.svg",
+  "mdi/svg/language-html5.svg",
+  "mdi/svg/language-r.svg",
+  "mdi/svg/language-rust.svg",
+  "mdi/svg/language-swift.svg",
+  "mdi/svg/linux-mint.svg",
+  "mdi/svg/lock-percent-open-variant.svg",
+  "mdi/svg/lock-percent-open.svg",
+  "mdi/svg/lock-percent.svg",
+  "mdi/svg/lock-question.svg",
+  "mdi/svg/map-marker-alert.svg",
+  "mdi/svg/map-marker-question.svg",
+  "mdi/svg/mastodon.svg",
+  "mdi/svg/message-reply-text.svg",
+  "mdi/svg/message-text.svg",
+  "mdi/svg/microsoft-excel.svg",
+  "mdi/svg/microsoft-onenote.svg",
+  "mdi/svg/microsoft-sharepoint.svg",
+  "mdi/svg/microsoft-visual-studio-code.svg",
+  "mdi/svg/microsoft-word.svg",
+  "mdi/svg/microsoft-xbox-controller-battery-empty.svg",
+  "mdi/svg/microsoft-xbox-controller-battery-full.svg",
+  "mdi/svg/microsoft-xbox-controller-battery-low.svg",
+  "mdi/svg/microsoft-xbox-controller-battery-medium.svg",
+  "mdi/svg/microsoft-xbox-controller-battery-unknown.svg",
+  "mdi/svg/microsoft-xbox-controller-menu.svg",
+  "mdi/svg/microsoft-xbox-controller.svg",
+  "mdi/svg/music-accidental-double-sharp.svg",
+  "mdi/svg/music-accidental-sharp.svg",
+  "mdi/svg/music-note-whole.svg",
+  "mdi/svg/music.svg",
+  "mdi/svg/nativescript.svg",
+  "mdi/svg/netflix.svg",
+  "mdi/svg/new-box.svg",
+  "mdi/svg/not-equal-variant.svg",
+  "mdi/svg/null.svg",
+  "mdi/svg/numeric-0.svg",
+  "mdi/svg/numeric-2.svg",
+  "mdi/svg/numeric-3.svg",
+  "mdi/svg/numeric-4.svg",
+  "mdi/svg/numeric-5.svg",
+  "mdi/svg/numeric-6.svg",
+  "mdi/svg/numeric-8.svg",
+  "mdi/svg/numeric-9.svg",
+  "mdi/svg/omega.svg",
+  "mdi/svg/opera.svg",
+  "mdi/svg/parking.svg",
+  "mdi/svg/percent-circle.svg",
+  "mdi/svg/pinterest.svg",
+  "mdi/svg/powershell.svg",
+  "mdi/svg/quora.svg",
+  "mdi/svg/receipt-text.svg",
+  "mdi/svg/roman-numeral-10.svg",
+  "mdi/svg/sale.svg",
+  "mdi/svg/salesforce.svg",
+  "mdi/svg/shield-alert.svg",
+  "mdi/svg/shopping-music.svg",
+  "mdi/svg/sigma-lower.svg",
+  "mdi/svg/sign-text.svg",
+  "mdi/svg/signal-hspa.svg",
+  "mdi/svg/sim.svg",
+  "mdi/svg/size-m.svg",
+  "mdi/svg/size-s.svg",
+  "mdi/svg/skype.svg",
+  "mdi/svg/smart-card.svg",
+  "mdi/svg/spotify.svg",
+  "mdi/svg/store-24-hour.svg",
+  "mdi/svg/subtitles.svg",
+  "mdi/svg/svg.svg",
+  "mdi/svg/syllabary-hiragana.svg",
+  "mdi/svg/tally-mark-5.svg",
+  "mdi/svg/temperature-kelvin.svg",
+  "mdi/svg/tooltip-text.svg",
+  "mdi/svg/transcribe.svg",
+  "mdi/svg/trello.svg",
+  "mdi/svg/truck-alert.svg",
+  "mdi/svg/twitter.svg",
+  "mdi/svg/ubisoft.svg",
+  "mdi/svg/unity.svg",
+  "mdi/svg/vhs.svg",
+  "mdi/svg/vimeo.svg",
+  "mdi/svg/water-percent.svg",
+  "mdi/svg/webrtc.svg",
+  "mdi/svg/weight-gram.svg",
+  "mdi/svg/weight-kilogram.svg",
+  "mdi/svg/xamarin.svg",
+  "mdi/svg/youtube-gaming.svg",
+  "mdi/svg/youtube-studio.svg",
+  "mdi/svg/youtube.svg",
+  "mdi/svg/zodiac-virgo.svg"
+ ],
+ "key_disc_px": 2.5,
+ "note": "identity classes (representative = smallest path: other members) and the text-glyph icons drawn upright only, for the natural-rival tiers of find_the_shadow; derived from the cache's law/law.json by build_law.py",
+ "orientations": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ]
+}

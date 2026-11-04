@@ -1,0 +1,9 @@
+# Linux / Python 3.12. System libraries and fonts also affect exact rendering.
+CairoSVG==2.9.1
+matplotlib==3.11.2
+networkx==3.7
+numpy==2.5.4
+opencv-python-headless==5.0.0.93
+pillow==12.3.0
+scipy==1.18.1
+sentencepiece==0.2.2

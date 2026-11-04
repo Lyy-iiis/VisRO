@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "visro"
+version = "1.0.0"
+description = "VisRO: reader and scorer for the 24-task visual reasoning dataset (the generator runs from the source tree)"
+readme = "README.md"
+license = "Apache-2.0"
+license-files = ["LICENSE", "NOTICE"]
+authors = [
+  { name = "Xinran Nicole Han" },
+  { name = "Yiyang Lu" },
+  { name = "Katelyn Gan" },
+  { name = "Todd Zickler" },
+]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Operating System :: POSIX :: Linux",
+  "Intended Audience :: Science/Research",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+requires-python = ">=3.10"
+# The reader (visro.dataset) and the scorer (visro.scoring) need only the standard library and Pillow.
+dependencies = ["pillow>=10"]
+
+[project.urls]
+Paper = "https://arxiv.org/abs/2610.21323"
+Repository = "https://github.com/Lyy-iiis/VisRO"
+
+[project.optional-dependencies]
+# The generator (python generate.py ...); exact versions as in requirements.txt. These pins
+# need Python 3.12 or newer; the reader and the scorer run on 3.10+.
+generate = [
+    "CairoSVG==2.9.1",
+    "matplotlib==3.11.2",
+    "networkx==3.7",
+    "numpy==2.5.4",
+    "opencv-python-headless==5.0.0.93",
+    "pillow==12.3.0",
+    "scipy==1.18.1",
+    "sentencepiece==0.2.2",
+]
+
+[project.scripts]
+visro-score = "visro.scoring:cli"
+
+[tool.setuptools]
+packages = ["visro"]

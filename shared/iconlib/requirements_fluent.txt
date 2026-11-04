@@ -1,0 +1,2 @@
+# Optional dependency for preparing Fluent's SVG styles; not needed at runtime.
+resvg-py==0.5.0
